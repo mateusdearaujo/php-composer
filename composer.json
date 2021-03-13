@@ -1,0 +1,13 @@
+{
+    "name": "alura/buscador-cursos",
+    "description": "Projeto que bucas cursos no site da Alura",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mateus Araujo",
+            "email": "mateusdearaujo@hotmail.com.br"
+        }
+    ],
+    "require": {}
+}
